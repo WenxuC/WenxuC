@@ -1,4 +1,4 @@
-### Hi there, Wenxu 👋
+### Hi there, I'm Wenxu 👋
 
 ## I'm student graduate in Computer Science.
 
