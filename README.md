@@ -3,7 +3,7 @@
 ## I'm student graduate in Computer Science.
 
 - 🔭 I'm currently looking for a full-time job in Software Engineering.
-- 🌱 I have experiences full-stack development.
+- 🌱 I have experiences fullstack development.
 
 ### Languages and Tools:
 
