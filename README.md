@@ -1,6 +1,6 @@
 ### Hi there, I'm Wenxu 👋
 
-## I'm student graduate in Computer Science.
+## Recent Computer Science graduate with a focus in Software Engineering and Full Stack development
 
 - 🔭 I'm currently looking for a full-time job in Software Engineering.
 - 🌱 I have experiences fullstack development.
